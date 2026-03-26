@@ -1,6 +1,4 @@
-## Hi, I’m Hank
-
-Financial Professional Shifting into Systems Analysis & Development.
+#### Financial Professional Shifting into Systems Analysis & Development.
 
 I'm executing a 12 month plan focusing on Cloud Engineering & Systems Analysis.
 
