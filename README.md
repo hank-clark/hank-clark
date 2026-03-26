@@ -1,6 +1,12 @@
-- 👋 Hi, I’m Hank
-- 👀 I’m interested in Python, Forex, and Trading
-- 🌱 I’m currently learning Python, translating my Expert Advisor from MQL4 to Python
+## Hi, I’m Hank
+
+Financial Professional Shifting into Systems Analysis & Development.
+
+I'm executing a 12 month plan focusing on Cloud Engineering & Systems Analysis.
+
+Currently working on **Personal Finance ETL automation**
+
+
 <!--- 📫 How to reach me:
 
 
