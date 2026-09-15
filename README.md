@@ -1,6 +1,4 @@
-#### Financial Professional Shifting into Systems Analysis & Development.
-
-I'm executing a 12 month plan focusing on Cloud Engineering & Systems Analysis.
+I'm a Computer Information Systems graduate and MBA who enjoys solving complex problems and improving processes through technology. My background spans financial services/advising, claims investigation, customer support, and operations, where I've developed strengths in analysis, documentation, stakeholder communication, and issue resolution. I'm currently exploring systems analysis, data analytics, and automation while continuing to expand my technical skill set.
 
 Currently working on **Personal Finance ETL automation**
 
